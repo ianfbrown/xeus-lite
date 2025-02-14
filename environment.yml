@@ -7,7 +7,7 @@ dependencies:
   - xeus-python
   - ipycanvas
   - pandas
-  - plotly
+  - plotly<6
   - numpy
   - panel
   
